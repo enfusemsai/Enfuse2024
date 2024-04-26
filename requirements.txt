@@ -3,3 +3,4 @@ pdfminer.six
 pandas
 sentence-transformers
 numpy
+openpyxl
