@@ -18,7 +18,7 @@ app = Flask(__name__)
 nlp = spacy.load("en_Resume_Matching_Keywords")
 
 # Load the Sentence Transformer model
-model_path = r"C:/Users/acer/Downloads/flask_resume_similarity/flask_resume_similarity/Matching-job-descriptions-and-resumes/msmarco-distilbert-base-tas-b-final"
+model_path = r"./Matching-job-descriptions-and-resumes/msmarco-distilbert-base-tas-b-final"
 model = SentenceTransformer(model_path)
 
 
