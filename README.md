@@ -1,5 +1,5 @@
 # Rockstar Recruitment
-A College Project 
+A College Project developed by Abhishek Goyal
 
 
 
